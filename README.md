@@ -43,7 +43,3 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 ## 说明
 
 项目仅作为学习使用，代码在每个章节代码都会有相应的链接。会放到github上面，大家可以clone github下载源代码。
-
-大家都能坚持学习下去，有疑问的可以到github提issue，共同探讨学习。如果该项目对于您有所帮助，希望您可以点到github star 或者打赏支持支持一下 ^_^ 
-
-<img src="https://github.com/cxp1539/laravel-core-learn/blob/master/imgs/1547642038777.jpg" width="160" height="200" />
