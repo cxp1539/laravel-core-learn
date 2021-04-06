@@ -1,4 +1,4 @@
-## 为什么选择laravel?，下面分别去拿优点缺点来对比。
+## 为什么选择laravel? 下面分别去拿优点缺点来对比。
 
 ### 优点
 
@@ -39,7 +39,6 @@ laravel上手难这个是肯定的，laravel采用了php比较新的特性，闭
 - [Laravel与前端最佳实践](https://github.com/cxp1539/laravel-core-learn/issues/11)
 - [基于JWT的api认证](https://github.com/cxp1539/laravel-core-learn/issues/12)
 - [负载均衡,分布式,集群的理解,多台服务器代码如何同步](https://github.com/cxp1539/laravel-core-learn/issues/13)
-- [基于教程实现的一个简单网站实例](https://github.com/cxp1539/laravel-core-learn/issues/14)
 
 ## 说明
 
